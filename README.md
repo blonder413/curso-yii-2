@@ -7,3 +7,8 @@ Video 1
 -------
 
 Introducción, instalación de template basic y estructura de directorios
+
+Video 2
+-------
+
+Instalación de template advanced, estructura de directorios e inicialización
