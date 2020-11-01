@@ -12,3 +12,8 @@ Video 2
 -------
 
 Instalación de template advanced, estructura de directorios e inicialización
+
+Video 3
+-------
+
+Vistas y URLs
