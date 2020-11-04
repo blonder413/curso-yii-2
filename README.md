@@ -32,3 +32,8 @@ Video 6
 -------
 
 Conexión a bases de datos MySQL y postgreSQL
+
+Video 7
+-------
+
+Migraciones
