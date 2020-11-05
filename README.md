@@ -37,3 +37,8 @@ Video 7
 -------
 
 Migraciones
+
+Video 8
+-------
+
+Insertar registros con ActiveRecord
