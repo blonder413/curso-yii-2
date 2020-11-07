@@ -42,3 +42,8 @@ Video 8
 -------
 
 Insertar registros con ActiveRecord
+
+Video 9
+-------
+
+Listar registros con ActiveRecord
