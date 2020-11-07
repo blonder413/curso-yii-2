@@ -47,3 +47,8 @@ Video 9
 -------
 
 Listar registros con ActiveRecord
+
+Video 10
+-------
+
+Actualizar y eliminar registros con ActiveRecord
