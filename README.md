@@ -52,3 +52,8 @@ Video 10
 -------
 
 Actualizar y eliminar registros con ActiveRecord
+
+Video 11
+-------
+
+QueryBuilder
