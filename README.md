@@ -57,3 +57,8 @@ Video 11
 -------
 
 QueryBuilder
+
+Video 12
+-------
+
+Registro de usuarios e inicio de sesión
