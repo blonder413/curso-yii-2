@@ -62,3 +62,8 @@ Video 12
 -------
 
 Registro de usuarios e inicio de sesión
+
+Video 13
+-------
+
+Relaciones y atributos personalizados
