@@ -67,3 +67,8 @@ Video 13
 -------
 
 Relaciones y atributos personalizados
+
+Video 14
+-------
+
+Reglas de validación
