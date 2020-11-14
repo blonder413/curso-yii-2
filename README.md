@@ -72,3 +72,8 @@ Video 14
 -------
 
 Reglas de validación
+
+Video 15
+-------
+
+Creación de CRUD usando gii
