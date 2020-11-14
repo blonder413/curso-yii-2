@@ -82,3 +82,8 @@ Video 16
 -------
 
 Uso de los métodos Behaviors y beforSave
+
+Video 17
+--------
+
+Personalizar la forma de mostrar los datos en el gridview
