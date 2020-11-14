@@ -77,3 +77,8 @@ Video 15
 -------
 
 Creación de CRUD usando gii
+
+Video 16
+-------
+
+Uso de los métodos Behaviors y beforSave
