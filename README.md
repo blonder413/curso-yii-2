@@ -87,3 +87,13 @@ Video 17
 --------
 
 Personalizar la forma de mostrar los datos en el gridview
+
+Video 18
+--------
+
+Buscar en GridView por un campo de un modelo relacionado a través de su llave foránea
+
+Video 19
+--------
+
+Extensión Select2 de kartik
