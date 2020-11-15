@@ -21,6 +21,21 @@ class PaisController extends Controller
     public function behaviors()
     {
         return [
+            'access' => [
+                'class' => Yii\filters\AccessControl::class,
+                //'only'  => ['index', 'create'],
+                'rules' => [
+                    [
+                        'actions'   => ['index', 'create'],
+                        'allow'     => true,
+                        /*
+                         * @    -> usuarios que han iniciado sesión
+                         * ?    -> invitados (no han iniciado sesión)
+                         */
+                        'roles'     => ['@'],
+                    ]
+                ],
+            ],
             'verbs' => [
                 'class' => VerbFilter::className(),
                 'actions' => [
