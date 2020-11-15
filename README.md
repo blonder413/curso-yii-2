@@ -112,3 +112,8 @@ Video 22
 --------
 
 Personalizar botones de acción de GridView
+
+Video 23
+--------
+
+Filtrar por varios campos como uno solo en GridView
