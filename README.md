@@ -122,3 +122,8 @@ Video 24
 --------
 
 Seeder por medio de migraciones y controladores
+
+Video 25
+--------
+
+Paginación de registros
