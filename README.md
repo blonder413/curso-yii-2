@@ -152,3 +152,8 @@ Video 30
 --------
 
 Creación de helpers
+
+Video 31
+--------
+
+Pasar información al layout
