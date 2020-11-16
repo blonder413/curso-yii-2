@@ -117,3 +117,8 @@ Video 23
 --------
 
 Filtrar por varios campos como uno solo en GridView
+
+Video 24
+--------
+
+Seeder por medio de migraciones y controladores
