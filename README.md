@@ -157,3 +157,8 @@ Video 31
 --------
 
 Pasar información al layout
+
+Video 32
+--------
+
+Transacciones
