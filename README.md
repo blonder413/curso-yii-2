@@ -167,3 +167,8 @@ Video 33
 --------
 
 Envío de correo
+
+Video 34
+--------
+
+Motor de plantillas Smarty
