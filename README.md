@@ -177,3 +177,9 @@ Video 35
 --------
 
 Motor de plantillas Twig
+
+
+Video 36
+--------
+
+Motor de plantillas Blade
