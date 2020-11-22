@@ -193,3 +193,9 @@ Video 38
 --------
 
 Refresacar un bloque usando Ajax con jQuery
+
+
+Video 39
+--------
+
+Refresacar un bloque periódicamente usando Ajax con jQuery
