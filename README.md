@@ -188,3 +188,8 @@ Video 37
 --------
 
 Librería mpdf de robregon
+
+Video 38
+--------
+
+Refresacar un bloque usando Ajax con jQuery
