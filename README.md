@@ -199,3 +199,9 @@ Video 39
 --------
 
 Refresacar un bloque periódicamente usando Ajax con jQuery
+
+
+Video 40
+--------
+
+Ventana modal clase yii\bootstrap\Modal
