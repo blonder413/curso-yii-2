@@ -205,3 +205,10 @@ Video 40
 --------
 
 Ventana modal clase yii\bootstrap\Modal
+
+
+
+Video 41
+--------
+
+Ventana modal clase yii\bootstrap\Modal con ajax usando jQuery
