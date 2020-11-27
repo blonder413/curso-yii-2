@@ -207,8 +207,19 @@ Video 40
 Ventana modal clase yii\bootstrap\Modal
 
 
-
 Video 41
 --------
 
 Ventana modal clase yii\bootstrap\Modal con ajax usando jQuery
+
+
+Video 42
+--------
+
+Lightbox Widget for Yii 2
+
+
+Video 43
+--------
+
+Filtro de fechas en GridView usando la extensión Bootstrap DatePicker Widget for Yii2
