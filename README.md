@@ -229,3 +229,9 @@ Video 44
 --------
 
 Búsquedas con ajax en el GridView con la clase Class yii\widgets\Pjax
+
+
+Video 45
+--------
+
+Select dependientes con ajax usando jQuery
