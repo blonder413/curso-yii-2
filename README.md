@@ -235,3 +235,9 @@ Video 45
 --------
 
 Select dependientes con ajax usando jQuery
+
+
+Video 46
+--------
+
+Personalizar GridView
