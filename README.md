@@ -223,3 +223,9 @@ Video 43
 --------
 
 Filtro de fechas en GridView usando la extensión Bootstrap DatePicker Widget for Yii2
+
+
+Video 44
+--------
+
+Búsquedas con ajax en el GridView con la clase Class yii\widgets\Pjax
