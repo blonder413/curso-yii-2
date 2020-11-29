@@ -241,3 +241,15 @@ Video 46
 --------
 
 Personalizar GridView
+
+
+Video 47
+--------
+
+Cookies
+
+
+Video 48
+--------
+
+Registro de usuario y verificación vía email
