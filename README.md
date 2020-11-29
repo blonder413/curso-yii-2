@@ -253,3 +253,15 @@ Video 48
 --------
 
 Registro de usuario y verificación vía email
+
+
+Video 49
+--------
+
+Personalizar mensajes de estado HTTP
+
+
+Video 50
+--------
+
+AdminLTE Plugin Asset de bootstrap 3
